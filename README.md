@@ -2,9 +2,7 @@
   
   ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodingaviator&show_icons=true&theme=radical)
   
-  <p text-align="justify"><b>I am currently working on research in Computer Science at Colby where we are conducting an experiment to verify the effectiveness of de-mystified error codes on debugging times for new programmers. My other research experience with Economics deals with comparing changes in Corporate Social Responsibility behavior pre and post-COVID in different countries.</b></p>
-  
-  #### You can find my resume on my website [here](https://www.parthparth.com).
+  <p text-align="justify"><b></b></p>
   
   ## Other Stats
     
