@@ -2,7 +2,7 @@
   <H1>Hi, I'm Parth 👋</H1>
   <p text-align="left">and I make stuff for the web! Here's a bit about me:</p>
   ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodingaviator&show_icons=true&theme=radical)
-  ![Path's profile views](https://komarev.com/ghpvc/?username=thecodingaviator)
+  ![Parth's profile views](https://komarev.com/ghpvc/?username=thecodingaviator)
   <p text-align="justify"><b></b></p>
   
   ## Other Stats
