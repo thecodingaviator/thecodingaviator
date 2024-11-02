@@ -11,7 +11,7 @@
 
   <br />
 
-  - 🖥️ Currently working on
+  - 🖥️ Former SDE Intern at
   <a href="https://authenticinsurance.com/">Authentic Insurance's Frontend</a>.
 
   - 🌱 Former Open Source Dev and Community Maintainer at
