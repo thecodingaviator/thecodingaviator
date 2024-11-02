@@ -12,7 +12,7 @@
   <br />
 
   - 🖥️ Former SDE Intern at
-  <a href="https://authenticinsurance.com/">Authentic Insurance's Frontend</a>.
+  <a href="https://authenticinsurance.com/">Authentic Insurance</a>.
 
   - 🌱 Former Open Source Dev and Community Maintainer at
   <a href="https://freeCodeCamp.org/">freeCodeCamp</a>.
