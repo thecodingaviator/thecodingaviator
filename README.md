@@ -46,7 +46,7 @@
   <div style="padding: 10px;">
     <img
       align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=thecodingaviator&theme=radical"
+      src="https://streak-stats.demolab.com/?user=thecodingaviator"
       alt="Parth's Streak Counter"
     />
   </div>
